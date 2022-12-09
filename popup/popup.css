@@ -1,0 +1,22 @@
+/* . {
+    border: red;
+} */
+
+body {
+    width: 300px;
+    color: darkblue;
+}
+
+button {
+    background-color: lightgray;
+    border: none;
+    color: darkblue;
+    padding: 4px 15px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
